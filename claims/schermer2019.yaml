@@ -1,0 +1,18 @@
+claim: schermer2019
+title: Quotations from schermer2019 used in neurology_nosology_v8.tex
+source:
+  citation: schermer2019
+  local: reference/schermer2019.txt
+  sha256: 178418f59fc1ffde256526fc6e69384f34835dfc160e1cb9a09d01c63669281e
+  tier: fulltext
+  retrieved_from: Europe PMC PMC6585806
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/schermer2019.xml
+  xml_sha256: dc6248f6557e64a29057f347909034dc315333296bb831dbeb00135a34bd8849
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+claims:
+  philosophy-of-medicine-on-the-alzheimer-s-reconceptualization:
+    quotes:
+    - exact: may only create a group of 'patients-in-waiting
+      page: null

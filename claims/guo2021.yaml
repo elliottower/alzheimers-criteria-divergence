@@ -1,0 +1,22 @@
+claim: guo2021
+title: Quotations from guo2021 on tau biomarker discordance across modalities
+source:
+  citation: guo2021
+  local: reference/guo2021.txt
+  sha256: 433ef0ecd4abbd9d3b3b86fa4f0ce77cdb5cd0eb5c15426df5c5786ff7daec8b
+  tier: fulltext
+  retrieved_from: 'Europe PMC open-access full text, PMC8094494. Alzheimers Res Ther 2021;13:93, doi 10.1186/s13195-021-00834-3'
+  extract_cmd: "Europe PMC fullTextXML, tags stripped, reference list removed"
+  read_in_full: true
+  note: Measures what the Alzheimer's manuscript argues from the criteria documents. It also
+    prints the four-cell cross-classification of two tau assays and computes a kappa, which is
+    the reporting the multiple sclerosis manuscript finds absent between two criteria sets.
+claims:
+  discordance-between-modalities:
+    quotes:
+    - exact: The subject classification discordance across the plasma/CSF group and plasma/PET group reached 31% and 29%, respectively
+      page: null
+  agreement-is-poor:
+    quotes:
+    - exact: so were the agreements between dichotomous (+/-) tau measures (kappa < 0.40)
+      page: null

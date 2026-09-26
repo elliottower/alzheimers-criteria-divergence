@@ -1,0 +1,34 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# The manuscript lives with the journal and the archive, not here.
+paper/
+*.tex
+*.pdf
+
+# Stored source text is third-party copyrighted; only the ledger travels.
+reference/*.txt
+reference/*.html
+reference/*.xml
+reference/*.pdf
+!reference/FETCH_LOG.json
+
+# Working documents, submission material and internal review never go public.
+planning/
+notes/
+reading/
+reviews/
+submission/
+SUBMISSION_STATUS.md
+
+# results-cli ledger: hashes stay local
+.results/

@@ -1,0 +1,29 @@
+claim: dubois2016
+title: Quotations from dubois2016 used in neurology_nosology_v8.tex
+source:
+  citation: dubois2016
+  local: reference/dubois2016.txt
+  sha256: c82d8995fae317afa21590ee25e166bd650986818f5ae434b640c1fe0b2233e2
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC6417794
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/dubois2016.xml
+  xml_sha256: 3850050afe06e8b606b0f6a0f36d0f827d255cc764c4208517b74af6cff9d172
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  one-reversal:
+    quotes:
+    - exact: Only the association of both pathologic hallmarks defines AD even in the absence of cognitive
+        symptoms
+      page: null
+  an-object-with-levels-and-no-cut:
+    quotes:
+    - exact: the prevalence of the disease, based on neuropathologic evidence, would excessively increase
+        as almost all postmortem assessment >70 years shows both types of AD brain lesions
+      page: null
+    - exact: Pathologic criteria have tried to avoid this bias by establishing thresholds for the number
+        of lesions needed to establish the diagnosis of AD
+      page: null

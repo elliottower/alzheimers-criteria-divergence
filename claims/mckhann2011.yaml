@@ -1,0 +1,31 @@
+claim: mckhann2011
+title: Quotations from mckhann2011 used in neurology_nosology_v8.tex
+source:
+  citation: mckhann2011
+  local: reference/mckhann2011.txt
+  sha256: 828fc3c1f8dd09591d87f284d0301a16bf6c1589b6d763671ad84d2ae4bb2481
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC3312024
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/mckhann2011.xml
+  xml_sha256: a49d6f0629f99dd6d6226204ce1998a218b6ce44bcb03da486b9a2d955e6aac1
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  identity-criteria-in-alzheimer-s-disease:
+    quotes:
+    - exact: the AD pathophysiological process
+      page: null
+    - exact: AD dementia
+      page: null
+    - exact: the clinical syndrome that arises as a consequence of the AD pathophysiological process
+      page: null
+  one-reversal:
+    quotes:
+    - exact: AD dementia is fundamentally a clinical diagnosis
+      page: null
+    - exact: To make a diagnosis of AD dementia with biomarker support, the core clinical diagnosis of
+        AD dementia must first be satisfied
+      page: null

@@ -1,0 +1,24 @@
+claim: dubois2024
+title: Quotations from dubois2024 used in neurology_nosology_v8.tex
+source:
+  citation: dubois2024
+  local: reference/dubois2024.txt
+  sha256: 8d47a6e319bebcf9284a769e1ed9c621b55d16beb6ade89f8ff855d0c94253b8
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC12010406
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/dubois2024.xml
+  xml_sha256: fb5fc0683841ee27b39ea3842f6dc20d37e3eec8785d3f203cc14a54e408f866
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  introduction:
+    quotes:
+    - exact: should not be labeled as having AD
+      page: null
+  one-reversal:
+    quotes:
+    - exact: is not “just semantics”, because behind the different concepts and semantic differences lie different strategies of management of these persons
+      page: null

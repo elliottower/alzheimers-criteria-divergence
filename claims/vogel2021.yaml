@@ -1,0 +1,20 @@
+claim: vogel2021
+title: Quotations from vogel2021 used in neurology_nosology_v8.tex
+source:
+  citation: vogel2021
+  local: reference/vogel2021.txt
+  sha256: 8b346bd802f75bbf25b3322027651f777687eb2ff21aff0c7c78564f0769c657
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC8686688
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/vogel2021.xml
+  xml_sha256: 7934150f1202c155ff76c2d644245c4e0bf7b60a5e146018b7bd66609005ac88
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  partitions-that-follow-the-instrument:
+    quotes:
+    - exact: the notion that there is such a pathological entity that can be described as “typical” AD
+      page: null

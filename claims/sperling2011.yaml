@@ -1,0 +1,21 @@
+claim: sperling2011
+title: Quotations from sperling2011 used in neurology_nosology_v8.tex
+source:
+  citation: sperling2011
+  local: reference/sperling2011.txt
+  sha256: 97ad52049beba94bca3bfcdb04a2eda08819ffaf1c56d83894c5fa873a7cc344
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC3220946
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/sperling2011.xml
+  xml_sha256: 1e78ee9d1d2db6213ec77b99651c7037dbb86e33865fbc0e6d0b9336386c27e1
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  identity-criteria-in-alzheimer-s-disease:
+    quotes:
+    - exact: intended purely for research purposes, and have no clinical or diagnostic utility at the
+        present time
+      page: null

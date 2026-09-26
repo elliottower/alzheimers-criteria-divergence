@@ -1,0 +1,20 @@
+claim: murray2011
+title: Quotations from murray2011 used in neurology_nosology_v8.tex
+source:
+  citation: murray2011
+  local: reference/murray2011.txt
+  sha256: 661a351dfb6014bb45709b99e2f6ced4a4d9eca74c8eab6d4ee957a23bc15756
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC3175379
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/murray2011.xml
+  xml_sha256: 025574e4f8d78b6984a9e7b9a3d5646382333eabdacee73061be0e76108407d2
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  partitions-that-follow-the-instrument:
+    quotes:
+    - exact: account for about 25% of AD
+      page: null

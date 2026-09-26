@@ -1,0 +1,23 @@
+claim: nelson2012
+title: Quotations from nelson2012 used in neurology_nosology_v8.tex
+source:
+  citation: nelson2012
+  local: reference/nelson2012.txt
+  sha256: 094830733cee558be50978a5e364e091fc571a6c6b146731f6386d72c2ddb2e2
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC3560290
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/nelson2012.xml
+  xml_sha256: 581f1c15547f2e6faa6321a00f709947264ee68226b2d091750069ddee678393
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  a-borrowed-validation-target:
+    quotes:
+    - exact: until such a method becomes available, neuropathologic examination remains the criterion
+        standard for disease definition
+      page: null
+    - exact: A patient lacking AD pathologic diagnosis at autopsy, despite “biomarker positivity,” is not an AD case and suggests the biomarker has imperfect specificity
+      page: null

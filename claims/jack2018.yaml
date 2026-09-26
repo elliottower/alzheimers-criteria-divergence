@@ -1,0 +1,30 @@
+claim: jack2018
+title: Quotations from jack2018 used in neurology_nosology_v8.tex
+source:
+  citation: jack2018
+  local: reference/jack2018.txt
+  sha256: 925409db6ee9e8deea991e42a50590a090d7e8bde36f875190f642b5703ac7bd
+  tier: fulltext
+  retrieved_from: Europe PMC PMC5958625
+  extract_cmd: none -- already text; produced by python3 scripts/render_text.py
+  xml: reference/jack2018.xml
+  xml_sha256: 4fba85b7d6652a0d6dc5fc1c6693c71fd04dc7fb5197f126a214a5a0e93ee02d
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+claims:
+  unlocated:
+    quotes:
+    - exact: Although it is possible that β-amyloid plaques and neurofibrillary tau deposits are not causal
+        in AD pathogenesis, it is these abnormal protein deposits that define AD as a unique neurodegenerative
+        disease among different disorders that can lead to dementia
+      page: null
+  one-reversal:
+    quotes:
+    - exact: it is premature and inappropriate to use this research framework in general medical practice
+      page: null
+  criterion-stated-as-stipulation:
+    statement: The 2018 framework states its identity criterion as a stipulation and severs it from causal
+      role.
+    verified: true
+    quotes:
+    - exact: it is these abnormal protein deposits that define AD as a unique neurodegenerative disease

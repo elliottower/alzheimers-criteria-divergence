@@ -1,0 +1,30 @@
+claim: jack2024
+title: Quotations from jack2024 used in neurology_nosology_v8.tex
+source:
+  citation: jack2024
+  local: reference/jack2024.txt
+  sha256: 60e8fce5eae0e2cd2f7e92c7cf8ef8877c5f5057dcb7404d350c73c8b8d7392c
+  tier: fulltext
+  retrieved_from: Europe PMC PMC11350039
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/jack2024.xml
+  xml_sha256: 8adb28b69bc1b2f800641d11a24b3878f026e79dd3a03bc74b8e1a3025381092
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+claims:
+  introduction:
+    quotes:
+    - exact: An abnormal Core 1 biomarker result is sufficient to establish a diagnosis of AD
+      page: null
+  unlocated:
+    quotes:
+    - exact: An abnormal Core 1 biomarker result is sufficient to establish a diagnosis of AD and to inform
+        clinical decision making throughout the disease continuum
+      page: null
+  one-reversal:
+    quotes:
+    - exact: Symptoms are a result of the disease process and are not necessary to diagnose AD
+      page: null
+    - exact: We highlight the distinction between can and should. AD can be diagnosed in asymptomatic
+        individuals, but we do not believe this should be done for clinical purposes at this time
+      page: null

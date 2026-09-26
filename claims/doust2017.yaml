@@ -1,0 +1,42 @@
+claim: doust2017
+title: Quotations from the G-I-N checklist for modifying a disease definition
+source:
+  citation: doust2017
+  local: reference/doust2017.txt
+  sha256: a1192d75aeb46705f6f1dab5ef5e0f9df5fdf7e9bdbaa88a1096c33f8a895a90
+  pdf: reference/doust2017.pdf
+  pdf_sha256: 795705d1c62b73e5063071f753257381a8dc4954c6042a117de4d63482be8e57
+  tier: fulltext
+  retrieved_from: 'Amsterdam UMC Pure repository (green OA, publisher version of record) of JAMA Intern Med 2017;177(7):1020-1025, doi 10.1001/jamainternmed.2017.1302, PMID 28505266'
+  extract_cmd: "pdftotext (reading order)"
+  read_in_full: true
+  note: Special Communication. The checklist is Table 2, eight items. Items 6, 7 and 8 each ask about
+    "patients classified by the new definition vs the previous definition", which cannot be answered
+    without the joint classification of the two definitions on one population. Item 2 asks only for the
+    change in incidence and prevalence, which are the two marginals. No item asks for the joint table.
+    Table 1 of the same paper reports six definition changes as prevalence pairs and no joint table.
+claims:
+  item-2-asks-only-for-the-marginals:
+    quotes:
+    - exact: 'Number of people affected: How will the new disease definition change the incidence and prevalence of the disease?'
+      page: 1021
+  item-6-benefit:
+    quotes:
+    - exact: What is the incremental benefit for patients classified by the new definition vs the previous definition?
+      page: 1021
+  item-7-harm:
+    quotes:
+    - exact: What is the incremental harm for patients classified by the new definition vs the previous definition?
+      page: 1021
+  item-8-net:
+    quotes:
+    - exact: What is the net benefit and harm for patients classified by the new definition vs the previous definition?
+      page: 1021
+  accuracy-conceded-as-unestimable:
+    quotes:
+    - exact: Accuracy is often not able to be estimated owing to the lack of a reference standard
+      page: 1021
+  no-accepted-criteria-existed:
+    quotes:
+    - exact: we have been unable to identify any currently accepted criteria for modifying disease definitions
+      page: 1020

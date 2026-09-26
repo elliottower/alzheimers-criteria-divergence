@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite it as below."
+title: "Both 2024 Alzheimer's criteria read variables outside their shared biomarker profile"
+authors:
+  - family-names: Tower
+    given-names: Elliot
+    email: elliot@elliottower.ai
+    orcid: "https://orcid.org/0000-0001-7004-8884"
+type: software
+license: MIT
+repository-code: "https://github.com/elliottower/alzheimers-criteria-divergence"
+doi: "10.5281/zenodo.22981854"

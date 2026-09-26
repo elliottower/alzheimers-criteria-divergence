@@ -1,0 +1,20 @@
+claim: montine2012
+title: Quotations from montine2012 used in neurology_nosology_v8.tex
+source:
+  citation: montine2012
+  local: reference/montine2012.txt
+  sha256: 23ad85f926bc0ce9bca032e2c2bc18a795df8872a6ce2b7068761ffe8a30b9dc
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC3268003
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/montine2012.xml
+  xml_sha256: f9c12dea7c8bec4561e2c72958ef0e2d3d43784a79854b05bd4b7c6be2d17f18
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  identity-criteria-in-alzheimer-s-disease:
+    quotes:
+    - exact: that neuropathologists adopt the term “AD neuropathologic change” and report on the presence and extent of lesions observed at autopsy regardless of the individual’s cognitive state, or even if cognitive state is not known
+      page: null

@@ -1,0 +1,37 @@
+claim: dubois2021
+title: Quotations from dubois2021 used in neurology_nosology_v8.tex
+source:
+  citation: dubois2021
+  local: reference/dubois2021.txt
+  sha256: ca48da508f8c8d2d3e4385dd9dc1e4cab08eefa7e61737e47252fcaa2f9a3d8e
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC8339877
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/dubois2021.xml
+  xml_sha256: 2688169c5efc9157ebe02d8b001423b00fd426cb74b290d9231d43337bbbbffe
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  unlocated:
+    quotes:
+    - exact: be restricted to people who have positive biomarkers together with specific Alzheimer's disease
+        phenotypes
+      page: null
+    - exact: no cutoff
+      page: null
+      elided: one half of a quotation the paper prints with an ellipsis
+    - exact: but only define low, intermediate, or high levels
+      page: null
+      elided: one half of a quotation the paper prints with an ellipsis
+  one-reversal:
+    quotes:
+    - exact: The diagnosis of Alzheimer's disease is clinical–biological
+      page: null
+  an-object-with-levels-and-no-cut:
+    quotes:
+    - exact: Neuropathology criteria for Alzheimer's disease provide no cutoff for establishing Alzheimer's
+        disease diagnosis, but only define low, intermediate, or high levels of Alzheimer's disease neuropathological
+        change
+      page: null

@@ -1,0 +1,21 @@
+claim: kisunla-label
+title: Quotations from kisunla-label used in neurology_nosology_v8.tex
+source:
+  citation: kisunla-label
+  local: reference/kisunla-label.txt
+  sha256: 7c164e1019cb59d096a1df2a2bc96ddfd4ab87b7fde171eca2a79123650cb21b
+  tier: fulltext
+  retrieved_from: DailyMed Structured Product Label, setid 190352d4-ef62-4679-b4fa-e846e2766afa. Kisunla
+    (donanemab-azbt), Eli Lilly.
+  extract_cmd: "none -- already text; produced by scripts/fetch_labels.py (SPL tags stripped)"
+  xml: reference/kisunla-label.xml
+  xml_sha256: fc5d06870486297fe0f16e8a616e788d06b729626ec920a598d0efb6bff95777
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+claims:
+  regulatory-categories:
+    quotes:
+    - exact: indicated for the treatment of Alzheimer's disease
+      page: null
+    - exact: patients with mild cognitive impairment or mild dementia stage of disease
+      page: null

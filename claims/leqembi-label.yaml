@@ -1,0 +1,21 @@
+claim: leqembi-label
+title: Quotations from leqembi-label used in neurology_nosology_v8.tex
+source:
+  citation: leqembi-label
+  local: reference/leqembi-label.txt
+  sha256: c751162ac7900a83994f36f2460f4630ed9650eec58bbe7182a31247dcba2482
+  tier: fulltext
+  retrieved_from: DailyMed Structured Product Label, setid 9d1ff786-e577-410a-a273-c4d7d0e4e975. Leqembi
+    (lecanemab-irmb), Eisai.
+  extract_cmd: "none -- already text; produced by scripts/fetch_labels.py (SPL tags stripped)"
+  xml: reference/leqembi-label.xml
+  xml_sha256: 63ea889385da2f653e9ef04ed26291ebfa4053a21dafa8f310f166fc5fbbd179
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+claims:
+  regulatory-categories:
+    quotes:
+    - exact: indicated for the treatment of Alzheimer's disease
+      page: null
+    - exact: patients with mild cognitive impairment or mild dementia stage of disease
+      page: null

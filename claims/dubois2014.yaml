@@ -1,0 +1,22 @@
+claim: dubois2014
+title: Quotations from dubois2014 used in neurology_nosology_v8.tex
+source:
+  citation: dubois2014
+  local: reference/dubois2014.txt
+  sha256: 7ecd4037c82a834be33fa8b824d530a3af3cbfab1d4ae0ab8a061687b606fc5c
+  tier: pdf
+  retrieved_from: Publisher PDF, Lancet Neurol 2014;13(6):614-629
+  extract_cmd: "none -- already text; produced by pdftotext -nopgbrk <publisher pdf> dubois2014.txt"
+  xml: ''
+  xml_sha256: ''
+  read_in_full: false
+  note: Text extracted from the publisher PDF of record. A quotation that resolves here is checked against
+    the full published article, including its tables and panels; column and line breaks are collapsed
+    by the extraction, so whitespace inside a resolved quotation is normalized.
+claims:
+  one-reversal:
+    quotes:
+    - exact: IWG-2 criteria for typical AD (A plus B at any stage)
+      page: null
+    - exact: Specific clinical phenotype
+      page: null

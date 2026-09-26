@@ -1,0 +1,24 @@
+claim: frisoni2025
+title: Quotations from frisoni2025 used in neurology_nosology_v8.tex
+source:
+  citation: frisoni2025
+  local: reference/frisoni2025.txt
+  sha256: fc024f8a0d42a9d47721cba5c7564107526fef6fff020593664eb5e11699d327
+  tier: pdf
+  retrieved_from: Publisher PDF, Lancet 2025;406(10510):1389-1407, Series paper 1
+  extract_cmd: "none -- already text; produced by pdftotext -nopgbrk <publisher pdf> frisoni2025.txt"
+  xml: ''
+  xml_sha256: ''
+  read_in_full: false
+  note: Text extracted from the publisher PDF of record. A quotation that resolves here is checked against
+    the full published article, including its tables and panels; column and line breaks are collapsed
+    by the extraction, so whitespace inside a resolved quotation is normalized. The full text stored for
+    this source is the author manuscript deposited in PubMed Central, which is the accepted text before
+    copyediting and differs in wording from the published version.
+claims:
+  index-dependence:
+    quotes:
+    - exact: 43% of individuals receiving discordant diagnoses
+      page: null
+    - exact: Comparative studies of the two most recent and popular diagnostic criteria are not yet available
+      page: null

@@ -1,0 +1,26 @@
+claim: jack2016
+title: Quotations from jack2016 used in neurology_nosology_v8.tex
+source:
+  citation: jack2016
+  local: reference/jack2016.txt
+  sha256: f5162f354bb39cbed8c18970acfdd9fe6381697c80deadaaf5102554f7c229da
+  tier: fulltext
+  retrieved_from: Europe PMC PMC4970664
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/jack2016.xml
+  xml_sha256: 1309e9fab791c67a394b5452740dd78f569a53d2237fd3842c51eeb5938bcf36
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+claims:
+  a-scheme-that-declines-caseness:
+    quotes:
+    - exact: It does not specify disease labels and thus is not a diagnostic classification system
+      page: null
+    - exact: is labeled preclinical AD stage 1 by the NIA-AA criteria but is classified as not being in
+        the AD pathway by IWG
+      page: null
+    - exact: Disagreement in how these different diagnostic criteria treat biomarkers creates uncertainty
+        for investigators, regulators, and pharmaceutical companies designing trials.
+      page: null
+    - exact: not a diagnostic classification system
+      page: null

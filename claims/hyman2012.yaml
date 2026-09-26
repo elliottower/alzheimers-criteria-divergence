@@ -1,0 +1,26 @@
+claim: hyman2012
+title: Quotations from hyman2012 used in neurology_nosology_v8.tex
+source:
+  citation: hyman2012
+  local: reference/hyman2012.txt
+  sha256: de659c2ca6ae947be2f0236c1af2c6bdcf5c5b60112691eee7b901b877bbc3c2
+  tier: fulltext
+  retrieved_from: NCBI PMC PMC3266529
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/hyman2012.xml
+  xml_sha256: 2c935119d7a4a8db8b7c16a99af530f3179e0fb76f5c264f1889e31c6bcd8048
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+    The full text stored for this source is the author manuscript deposited in PubMed Central, which is
+    the accepted text before copyediting and differs in wording from the published version.
+claims:
+  identity-criteria-in-alzheimer-s-disease:
+    quotes:
+    - exact: There is consensus to disentangle the clinicopathologic term “Alzheimer’s disease” from AD neuropathologic change
+      page: null
+    - exact: consensus to disentangle the clinicopathologic term “Alzheimer’s disease” from AD neuropathologic change.
+      page: null
+  one-reversal:
+    quotes:
+    - exact: The former refers to clinical signs and symptoms of cognitive and behavioral changes
+      page: null

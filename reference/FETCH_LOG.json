@@ -1,0 +1,405 @@
+{
+  "beach2012": {
+    "alt": {
+      "chars": 24549,
+      "extract_cmd": "",
+      "file": "beach2012.abstract.txt",
+      "note": "PubMed 22437338",
+      "sha256": "bf2351922df13a9672650143e02bc802384cdbab923e22dfb083dceeda3a20e7",
+      "tier": "abstract"
+    },
+    "chars": 36400,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "beach2012.txt",
+    "note": "NCBI PMC PMC3331862",
+    "sha256": "9b4fa25a577d65ed89c46562b3686f42e1219c996fcba0f5252911757c78cab8",
+    "tier": "fulltext",
+    "xml": "beach2012.xml",
+    "xml_sha256": "affd47c1ae102017a66065908019c596ecb4eada4b2a038482b42bedc08e31ab"
+  },
+  "bieger2024": {
+    "chars": 118741,
+    "extract_cmd": "pdftotext {} -",
+    "file": "bieger2024.txt",
+    "note": "Neurology 103(5):e209753. doi:10.1212/WNL.0000000000209753. Copied from the shared citations library.",
+    "sha256": "e8b18085753f92b9876133aebc5df3db9e75319f9d7edc03e88c8b0b533df6b7",
+    "tier": "pdf"
+  },
+  "bossuyt2015": {
+    "chars": 22938,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "bossuyt2015.txt",
+    "note": "Europe PMC PMC4623764",
+    "sha256": "e1a61963ded0286bc6a2f2adb51d72d48e54f268e41bf484151e60d8adb446af",
+    "tier": "fulltext",
+    "xml": "bossuyt2015.xml",
+    "xml_sha256": "062eaf03256c8e46d157c19b0052f671eafbb4a39bb9065106b909bfb837be5b"
+  },
+  "braak1991": {
+    "chars": 4069,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "braak1991.txt",
+    "note": "PubMed 1759558",
+    "sha256": "113676eac9a065f640e0705110c1a29e80bbe4b9a417e0539aa92adcb762eede",
+    "tier": "abstract",
+    "xml": "braak1991.xml",
+    "xml_sha256": "3fe5fa43866c81df89f8edd14c2c65c4643ea6abd762ad1a8cb23dc2f64ab708"
+  },
+  "dubois2014": {
+    "chars": 110585,
+    "extract_cmd": "pdftotext -nopgbrk <publisher pdf> dubois2014.txt",
+    "file": "dubois2014.txt",
+    "note": "Publisher PDF, Lancet Neurol 2014;13(6):614-629",
+    "sha256": "7ecd4037c82a834be33fa8b824d530a3af3cbfab1d4ae0ab8a061687b606fc5c",
+    "tier": "pdf"
+  },
+  "dubois2016": {
+    "alt": {
+      "chars": 119591,
+      "extract_cmd": "",
+      "file": "dubois2016.abstract.txt",
+      "note": "PubMed 27012484",
+      "sha256": "e9035af77c26b90056800b37f327043651c13cd3ec223cc9b2578eb190fef153",
+      "tier": "abstract"
+    },
+    "chars": 111309,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "dubois2016.txt",
+    "note": "NCBI PMC PMC6417794",
+    "sha256": "c82d8995fae317afa21590ee25e166bd650986818f5ae434b640c1fe0b2233e2",
+    "tier": "fulltext",
+    "xml": "dubois2016.xml",
+    "xml_sha256": "3850050afe06e8b606b0f6a0f36d0f827d255cc764c4208517b74af6cff9d172"
+  },
+  "dubois2021": {
+    "alt": {
+      "chars": 32734,
+      "extract_cmd": "python3 scripts/render_text.py",
+      "file": "dubois2021.abstract.txt",
+      "note": "PubMed 33933186",
+      "sha256": "9acd2eddfde6057e9601cec9a8df5f6a7a764c39f8cb71388d49b878cbeaa39f",
+      "tier": "abstract",
+      "xml": "dubois2021.abstract.xml",
+      "xml_sha256": "afb4dbf4a1729170cbe670b07220e368c2c7454cb5583f04a3b01a2bac6279ad"
+    },
+    "chars": 52403,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "dubois2021.txt",
+    "note": "NCBI PMC PMC8339877",
+    "sha256": "ca48da508f8c8d2d3e4385dd9dc1e4cab08eefa7e61737e47252fcaa2f9a3d8e",
+    "tier": "fulltext",
+    "xml": "dubois2021.xml",
+    "xml_sha256": "2688169c5efc9157ebe02d8b001423b00fd426cb74b290d9231d43337bbbbffe"
+  },
+  "dubois2024": {
+    "alt": {
+      "chars": 23290,
+      "extract_cmd": "python3 scripts/render_text.py",
+      "file": "dubois2024.abstract.txt",
+      "note": "PubMed 39483064",
+      "sha256": "a386b2f7810d759e22c1fd2167d3a62e836fd0c65c40a586ee06fd3c0d379023",
+      "tier": "abstract",
+      "xml": "dubois2024.abstract.xml",
+      "xml_sha256": "9ba599883867de08308f8c17c51973a0dea5fa019b5f0c68757b57ca7da81c76"
+    },
+    "chars": 37994,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "dubois2024.txt",
+    "note": "NCBI PMC PMC12010406",
+    "sha256": "8d47a6e319bebcf9284a769e1ed9c621b55d16beb6ade89f8ff855d0c94253b8",
+    "tier": "fulltext",
+    "xml": "dubois2024.xml",
+    "xml_sha256": "fb5fc0683841ee27b39ea3842f6dc20d37e3eec8785d3f203cc14a54e408f866"
+  },
+  "ferreira2020": {
+    "chars": 42439,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "ferreira2020.txt",
+    "note": "Europe PMC PMC7238917",
+    "sha256": "a348bac08ae4b92fdfe1c6eca031eb0c9872ab6518f04265f17689509bdc5294",
+    "tier": "fulltext",
+    "xml": "ferreira2020.xml",
+    "xml_sha256": "9b2ff14b81a22f336b85f009302309cdbdea904b907cbb7dcee846e36a3a0361"
+  },
+  "frisoni2025": {
+    "alt": {
+      "chars": 18917,
+      "extract_cmd": "python3 scripts/render_text.py",
+      "file": "frisoni2025.abstract.txt",
+      "note": "PubMed 40997838",
+      "sha256": "3474309539996931fd029931f86a5d2cc80f00077f855de9bfdfae3c84aeca4e",
+      "tier": "abstract"
+    },
+    "chars": 125425,
+    "extract_cmd": "pdftotext -nopgbrk <publisher pdf> frisoni2025.txt",
+    "file": "frisoni2025.txt",
+    "note": "Publisher PDF, Lancet 2025;406(10510):1389-1407, Series paper 1",
+    "sha256": "fc024f8a0d42a9d47721cba5c7564107526fef6fff020593664eb5e11699d327",
+    "tier": "pdf"
+  },
+  "huiwalter1980": {
+    "chars": 876,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "huiwalter1980.txt",
+    "note": "PubMed 7370371",
+    "sha256": "8975d0397225e5b246bff16c00c1e8b7dbd431b565dc692e81b8568402af30ed",
+    "tier": "abstract",
+    "xml": "huiwalter1980.xml",
+    "xml_sha256": "3470b0fcc0f864ac3360c47bf32a20709dddf03e7fb4eac9794b9324b9fc75ba"
+  },
+  "hyman2012": {
+    "alt": {
+      "chars": 48638,
+      "extract_cmd": "",
+      "file": "hyman2012.abstract.txt",
+      "note": "PubMed 22265587",
+      "sha256": "5a43a023000469d1ed87a28b30163605f1c708231fd77ebd03d931fd88765c2c",
+      "tier": "abstract"
+    },
+    "chars": 48670,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "hyman2012.txt",
+    "note": "NCBI PMC PMC3266529",
+    "sha256": "de659c2ca6ae947be2f0236c1af2c6bdcf5c5b60112691eee7b901b877bbc3c2",
+    "tier": "fulltext",
+    "xml": "hyman2012.xml",
+    "xml_sha256": "2c935119d7a4a8db8b7c16a99af530f3179e0fb76f5c264f1889e31c6bcd8048"
+  },
+  "jack2016": {
+    "chars": 35766,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "jack2016.txt",
+    "note": "Europe PMC PMC4970664",
+    "sha256": "f5162f354bb39cbed8c18970acfdd9fe6381697c80deadaaf5102554f7c229da",
+    "tier": "fulltext",
+    "xml": "jack2016.xml",
+    "xml_sha256": "1309e9fab791c67a394b5452740dd78f569a53d2237fd3842c51eeb5938bcf36"
+  },
+  "jack2018": {
+    "chars": 99991,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "jack2018.txt",
+    "note": "Europe PMC PMC5958625",
+    "sha256": "925409db6ee9e8deea991e42a50590a090d7e8bde36f875190f642b5703ac7bd",
+    "tier": "fulltext",
+    "xml": "jack2018.xml",
+    "xml_sha256": "4fba85b7d6652a0d6dc5fc1c6693c71fd04dc7fb5197f126a214a5a0e93ee02d"
+  },
+  "jack2024": {
+    "chars": 107379,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "jack2024.txt",
+    "note": "Europe PMC PMC11350039",
+    "sha256": "60e8fce5eae0e2cd2f7e92c7cf8ef8877c5f5057dcb7404d350c73c8b8d7392c",
+    "tier": "fulltext",
+    "xml": "jack2024.xml",
+    "xml_sha256": "8adb28b69bc1b2f800641d11a24b3878f026e79dd3a03bc74b8e1a3025381092"
+  },
+  "kisunla-label": {
+    "chars": 60639,
+    "extract_cmd": "scripts/fetch_labels.py (SPL tags stripped)",
+    "file": "kisunla-label.txt",
+    "note": "DailyMed Structured Product Label, setid 190352d4-ef62-4679-b4fa-e846e2766afa. Kisunla (donanemab-azbt), Eli Lilly.",
+    "sha256": "7c164e1019cb59d096a1df2a2bc96ddfd4ab87b7fde171eca2a79123650cb21b",
+    "tier": "fulltext",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/190352d4-ef62-4679-b4fa-e846e2766afa.xml",
+    "xml": "kisunla-label.xml",
+    "xml_sha256": "fc5d06870486297fe0f16e8a616e788d06b729626ec920a598d0efb6bff95777"
+  },
+  "leqembi-label": {
+    "chars": 96281,
+    "extract_cmd": "scripts/fetch_labels.py (SPL tags stripped)",
+    "file": "leqembi-label.txt",
+    "note": "DailyMed Structured Product Label, setid 9d1ff786-e577-410a-a273-c4d7d0e4e975. Leqembi (lecanemab-irmb), Eisai.",
+    "sha256": "c751162ac7900a83994f36f2460f4630ed9650eec58bbe7182a31247dcba2482",
+    "tier": "fulltext",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/services/v2/spls/9d1ff786-e577-410a-a273-c4d7d0e4e975.xml",
+    "xml": "leqembi-label.xml",
+    "xml_sha256": "63ea889385da2f653e9ef04ed26291ebfa4053a21dafa8f310f166fc5fbbd179"
+  },
+  "mckhann2011": {
+    "alt": {
+      "chars": 17086,
+      "extract_cmd": "",
+      "file": "mckhann2011.abstract.txt",
+      "note": "PubMed 21514250",
+      "sha256": "dae1f01f280c5927f36759bbf4f169ceb93b2f9e8af26e23bf5bee9790dd491a",
+      "tier": "abstract"
+    },
+    "chars": 26016,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "mckhann2011.txt",
+    "note": "NCBI PMC PMC3312024",
+    "sha256": "828fc3c1f8dd09591d87f284d0301a16bf6c1589b6d763671ad84d2ae4bb2481",
+    "tier": "fulltext",
+    "xml": "mckhann2011.xml",
+    "xml_sha256": "a49d6f0629f99dd6d6226204ce1998a218b6ce44bcb03da486b9a2d955e6aac1"
+  },
+  "michalon2026": {
+    "extract_cmd": "scripts/fetch_philosophy.py (inverted index -> running text)",
+    "file": "michalon2026.txt",
+    "note": "OpenAlex abstract_inverted_index for doi:10.1136/jnnp-2025-337832, reconstructed",
+    "sha256": "9191538aacfaac6d585c0fc355498714fdf5796e24dd9fbe3db8f60b82b8b74c",
+    "tier": "openalex-abstract"
+  },
+  "mirra1991": {
+    "chars": 1900,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "mirra1991.txt",
+    "note": "PubMed 2011243",
+    "sha256": "3a17f80a813a3883f2e95c1c5fd2b2753756c5955e5f99633fef020595199837",
+    "tier": "abstract",
+    "xml": "mirra1991.xml",
+    "xml_sha256": "4b6e5d852dd5007126a671bbd75e750cb54aeb6227a7af86abf0d643cf554773"
+  },
+  "montine2012": {
+    "alt": {
+      "chars": 34676,
+      "extract_cmd": "",
+      "file": "montine2012.abstract.txt",
+      "note": "PubMed 22101365",
+      "sha256": "dc9cd8a244c939b09d7b3e2d6cbddd363c6ba03a956a4939be5369ed531e7fcc",
+      "tier": "abstract"
+    },
+    "chars": 27993,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "montine2012.txt",
+    "note": "NCBI PMC PMC3268003",
+    "sha256": "23ad85f926bc0ce9bca032e2c2bc18a795df8872a6ce2b7068761ffe8a30b9dc",
+    "tier": "fulltext",
+    "xml": "montine2012.xml",
+    "xml_sha256": "f9c12dea7c8bec4561e2c72958ef0e2d3d43784a79854b05bd4b7c6be2d17f18"
+  },
+  "moscoso2024": {
+    "chars": 9611,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "moscoso2024.txt",
+    "note": "Europe PMC PMC11667487",
+    "sha256": "e55b40b90792a8ac77845c082f5164dbf7d5eaeb5461ab2faa8d7337d8dae12e",
+    "tier": "fulltext",
+    "xml": "moscoso2024.xml",
+    "xml_sha256": "1f7837a1939d12e9b0ec59aa293e7bcc0d65a5ad5535dfb880dde5530eae1607"
+  },
+  "murray2011": {
+    "alt": {
+      "chars": 25609,
+      "extract_cmd": "",
+      "file": "murray2011.abstract.txt",
+      "note": "PubMed 21802369",
+      "sha256": "654e147760723ddf0570f057a5625ecea111c8efb643ce7edb8880f049ae1390",
+      "tier": "abstract"
+    },
+    "chars": 44748,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "murray2011.txt",
+    "note": "NCBI PMC PMC3175379",
+    "sha256": "661a351dfb6014bb45709b99e2f6ced4a4d9eca74c8eab6d4ee957a23bc15756",
+    "tier": "fulltext",
+    "xml": "murray2011.xml",
+    "xml_sha256": "025574e4f8d78b6984a9e7b9a3d5646382333eabdacee73061be0e76108407d2"
+  },
+  "nelson2012": {
+    "alt": {
+      "chars": 124634,
+      "extract_cmd": "",
+      "file": "nelson2012.abstract.txt",
+      "note": "PubMed 22487856",
+      "sha256": "1d07c581d9387a3be0e111ee74edbb9c5eae167a2027488b58af1d0e605a9983",
+      "tier": "abstract"
+    },
+    "chars": 66857,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "nelson2012.txt",
+    "note": "NCBI PMC PMC3560290",
+    "sha256": "094830733cee558be50978a5e364e091fc571a6c6b146731f6386d72c2ddb2e2",
+    "tier": "fulltext",
+    "xml": "nelson2012.xml",
+    "xml_sha256": "581f1c15547f2e6faa6321a00f709947264ee68226b2d091750069ddee678393"
+  },
+  "schermer2019": {
+    "chars": 38341,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "schermer2019.txt",
+    "note": "Europe PMC PMC6585806",
+    "sha256": "178418f59fc1ffde256526fc6e69384f34835dfc160e1cb9a09d01c63669281e",
+    "tier": "fulltext",
+    "xml": "schermer2019.xml",
+    "xml_sha256": "dc6248f6557e64a29057f347909034dc315333296bb831dbeb00135a34bd8849"
+  },
+  "simuni2024": {
+    "chars": 15042,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "simuni2024.txt",
+    "note": "PubMed 38267190",
+    "sha256": "761c6609fc8cc4130aec8d9c590773c4cf986431488d876ef5807ad4408d5c1a",
+    "tier": "abstract",
+    "xml": "simuni2024.xml",
+    "xml_sha256": "2543a0481894e0e91018ecf1ccbb55d2bf32d1e23873bddaf6870e5679806621"
+  },
+  "sperling2011": {
+    "alt": {
+      "chars": 33597,
+      "extract_cmd": "",
+      "file": "sperling2011.abstract.txt",
+      "note": "PubMed 21514248",
+      "sha256": "aca20a3bbfd4c267457a9c86d85e69b56ce21207938fd8ed62b8156ed7a5b7b8",
+      "tier": "abstract"
+    },
+    "chars": 58975,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "sperling2011.txt",
+    "note": "NCBI PMC PMC3220946",
+    "sha256": "97ad52049beba94bca3bfcdb04a2eda08819ffaf1c56d83894c5fa873a7cc344",
+    "tier": "fulltext",
+    "xml": "sperling2011.xml",
+    "xml_sha256": "1e78ee9d1d2db6213ec77b99651c7037dbb86e33865fbc0e6d0b9336386c27e1"
+  },
+  "terman2026": {
+    "chars": 14760,
+    "extract_cmd": "Europe PMC fullTextXML, tags stripped, reference list removed",
+    "file": "terman2026.txt",
+    "note": "Europe PMC PMC13323740; PMID 42395343; fetched 2026-09-22",
+    "sha256": "68cf2f6d65bda1b3c05a85368a7c13415ed37f78f0399b3e14285841db6e89b0",
+    "tier": "fulltext",
+    "xml": "terman2026.xml",
+    "xml_sha256": "20bfeddbbbd933f9f1a63cadef09152ad9fa83d2e207fd18eca2c15cec93b2da"
+  },
+  "tromp2021": {
+    "chars": 43508,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "tromp2021.txt",
+    "note": "Europe PMC PMC7902965",
+    "sha256": "ef4b578b2d61e078596083e946ae4fafbe707c7b7f50e6c7bf53cfcd96ceb326",
+    "tier": "fulltext",
+    "xml": "tromp2021.xml",
+    "xml_sha256": "d143cb7756eab1578437f6e2a362c6924d25a9a2cf5dd9429e68ad7bf2c7c2cc"
+  },
+  "verberk2026": {
+    "chars": 21542,
+    "extract_cmd": "pdftotext reference/verberk2026.pdf",
+    "file": "verberk2026.txt",
+    "note": "Brain 149(2):382-385, publisher PDF (CC BY) supplied by the author, 2026-09-22; PMID 41032659",
+    "sha256": "636ca87d3fea2900f7271753a14e567bd8b5d823f63f477e2a8b38df5e4b3c4f",
+    "tier": "fulltext",
+    "pdf": "verberk2026.pdf",
+    "pdf_sha256": "9b672d2e293e4eb1db48989f2b8ee06bce77d2847f95e425f1d32a259e10bcc7"
+  },
+  "vogel2021": {
+    "alt": {
+      "chars": 68959,
+      "extract_cmd": "",
+      "file": "vogel2021.abstract.txt",
+      "note": "PubMed 33927414",
+      "sha256": "6618cd2f7a82a64cb43f0cf200b048ceaf2fa4a75c01f3858ea1995e29d7ed15",
+      "tier": "abstract"
+    },
+    "chars": 88227,
+    "extract_cmd": "python3 scripts/render_text.py",
+    "file": "vogel2021.txt",
+    "note": "NCBI PMC PMC8686688",
+    "sha256": "8b346bd802f75bbf25b3322027651f777687eb2ff21aff0c7c78564f0769c657",
+    "tier": "fulltext",
+    "xml": "vogel2021.xml",
+    "xml_sha256": "7934150f1202c155ff76c2d644245c4e0bf7b60a5e146018b7bd66609005ac88"
+  }
+}

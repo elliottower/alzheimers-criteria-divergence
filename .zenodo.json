@@ -1,0 +1,31 @@
+{
+  "title": "Both 2024 Alzheimer's criteria read variables outside their shared biomarker profile",
+  "upload_type": "software",
+  "description": "Verification apparatus for a reading of the two 2024 Alzheimer's disease diagnostic criteria: quotation records for every cited source, an artifact ledger recording the SHA-256 and retrieval tier of each, and the scripts that check every quotation in the manuscript against its stored source.",
+  "creators": [
+    {
+      "name": "Tower, Elliot",
+      "orcid": "0000-0001-7004-8884"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Alzheimer's disease",
+    "diagnostic criteria",
+    "biomarkers",
+    "disease classification",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/elliottower/alzheimers-criteria-divergence",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.22981854",
+      "relation": "isVersionOf",
+      "scheme": "doi"
+    }
+  ]
+}

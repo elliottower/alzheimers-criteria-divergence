@@ -1,0 +1,31 @@
+claim: simuni2024
+title: Quotations from simuni2024 used in neurology_nosology_v8.tex
+source:
+  citation: simuni2024
+  local: reference/simuni2024.txt
+  sha256: 761c6609fc8cc4130aec8d9c590773c4cf986431488d876ef5807ad4408d5c1a
+  tier: abstract
+  retrieved_from: PubMed 38267190
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/simuni2024.xml
+  xml_sha256: 2543a0481894e0e91018ecf1ccbb55d2bf32d1e23873bddaf6870e5679806621
+  read_in_full: false
+  note: 'PubMed record: title, abstract and metadata. A quotation that resolves here is checked against
+    the abstract and against nothing else.'
+claims:
+  unlocated:
+    quotes:
+    - exact: it is time to redefine Parkinson's disease and dementia with Lewy bodies as neuronal α-synuclein
+        disease rather than as clinical syndromes
+      page: null
+    - exact: is defined by the presence of pathological n-αsyn species detected in vivo
+      page: null
+      elided: one half of a quotation the paper prints with an ellipsis
+    - exact: regardless of the presence of any specific clinical syndrome
+      page: null
+      elided: one half of a quotation the paper prints with an ellipsis
+  the-shared-relocation:
+    quotes:
+    - exact: the NSD-ISS is intended for research use only; its application in the clinical setting is
+        premature and inappropriate
+      page: null

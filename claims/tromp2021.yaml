@@ -1,0 +1,19 @@
+claim: tromp2021
+title: Quotations from tromp2021 used in neurology_nosology_v8.tex
+source:
+  citation: tromp2021
+  local: reference/tromp2021.txt
+  sha256: ef4b578b2d61e078596083e946ae4fafbe707c7b7f50e6c7bf53cfcd96ceb326
+  tier: fulltext
+  retrieved_from: Europe PMC PMC7902965
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/tromp2021.xml
+  xml_sha256: d143cb7756eab1578437f6e2a362c6924d25a9a2cf5dd9429e68ad7bf2c7c2cc
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+claims:
+  one-reversal:
+    quotes:
+    - exact: does not fit within Dutch physicians' views on what good care for people with no, subjective,
+        or mild cognitive impairment should entail
+      page: null

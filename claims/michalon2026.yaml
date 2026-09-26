@@ -1,0 +1,23 @@
+claim: michalon2026
+title: Quotations from michalon2026 used in neurology_nosology_v8.tex
+source:
+  citation: michalon2026
+  local: reference/michalon2026.txt
+  sha256: 9191538aacfaac6d585c0fc355498714fdf5796e24dd9fbe3db8f60b82b8b74c
+  tier: openalex-abstract
+  retrieved_from: OpenAlex abstract_inverted_index for doi:10.1136/jnnp-2025-337832, reconstructed
+  extract_cmd: "none -- already text; produced by scripts/fetch_philosophy.py (inverted index -> running text)"
+  xml: ''
+  xml_sha256: ''
+  read_in_full: false
+  note: Abstract reconstructed from the OpenAlex inverted index, which stores each word with its positions.
+    Word order is recovered exactly; sentence spacing and some punctuation are not, so a quotation crossing
+    a sentence boundary may fail to resolve here and no quotation should be drawn across one. This is
+    the weakest artifact in the repository and is not the paper.
+claims:
+  philosophy-of-medicine-on-the-alzheimer-s-reconceptualization:
+    quotes:
+    - exact: acting as strategic bets that reshape scientific fields and clinical practices
+      page: null
+    - exact: ethics of stipulating
+      page: null

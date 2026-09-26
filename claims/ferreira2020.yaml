@@ -1,0 +1,20 @@
+claim: ferreira2020
+title: Quotations from ferreira2020 used in neurology_nosology_v8.tex
+source:
+  citation: ferreira2020
+  local: reference/ferreira2020.txt
+  sha256: a348bac08ae4b92fdfe1c6eca031eb0c9872ab6518f04265f17689509bdc5294
+  tier: fulltext
+  retrieved_from: Europe PMC PMC7238917
+  extract_cmd: "none -- already text; produced by python3 scripts/render_text.py"
+  xml: reference/ferreira2020.xml
+  xml_sha256: 9b2ff14b81a22f336b85f009302309cdbdea904b907cbb7dcee846e36a3a0361
+  read_in_full: true
+  note: Europe PMC open-access full text. A quotation that resolves here is checked against the paper.
+claims:
+  partitions-that-follow-the-instrument:
+    quotes:
+    - exact: The frequency of the subtypes partially depended on factors such as the number of subtypes
+        included in each study, the modality of the data subtyping is performed on (e.g., postmortem vs
+        MRI), and the algorithm used for subtyping
+      page: null
